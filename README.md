@@ -1,3 +1,4 @@
+(привет всем русскоговорящим!)
 - 👋 Hi, I’m @konyasharin
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning Web development
